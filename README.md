@@ -10,7 +10,7 @@ A 2N2222 NPN transistor switching seven parallel LEDs from a single push button.
 
 **Objective 2 — Demonstrate embedded microprocessor system and circuit skills.**
 
-Microcontrollers can't drive real loads directly. This lab is the circuit-side foundation of that skill: using a transistor as a switch and doing the bias math that makes it reliable.
+**How it meets the objective:** It demonstrates circuit skills at the component level — calculating the transistor's base resistor from gain (HFE) and load current so one button reliably switches seven parallel LEDs, the same load-switching principle microcontrollers depend on to drive motors and pumps.
 
 ## What I Did
 
